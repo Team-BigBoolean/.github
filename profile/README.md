@@ -9,8 +9,9 @@
 
 
 ## Who are we?
-| Constributor | Bio |
+| Contributor | Bio |
 |:--|---|
+|  |  |
 |  |  |
 |  |  |
 |  |  |
