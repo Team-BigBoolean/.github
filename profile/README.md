@@ -9,11 +9,9 @@
 
 
 ## Who are we?
-| Contributor | Bio |
-|:--|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Contributor | Bio | Contributor | Bio |
+|:--:|---|:--:|---|
+| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | I am a driven and talented software developer who has taken unique interest in Financial Technologies. I've built high frequency algorithms, securities exchange emulation and capital transaction tools. | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
+| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
+| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
+
