@@ -1,17 +1,9 @@
 ![Team BigBoolean](https://capsule-render.vercel.app/api?text=Team%20BigBoolean&animation=twinkling&type=waving&color=0:EEFF0000,100:a82da8&fontColor=CCCCFF&desc=Sprint%20to%20Innovate%202022&height=300&descAlignY=70)
 
-## What we've made!
-| Concept | Mock-up | Prototype |
-|:--|:-:|-:|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
 ## Who are we?
 | Contributor | Bio | Contributor | Bio |
 |:--:|---|:--:|---|
-| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | I am a driven and talented software developer who has taken unique interest in Financial Technologies. I've built high frequency algorithms, securities exchange emulation and capital transaction tools. | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
-| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
-| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
+| ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Don Zhu | A driven and talented software developer who has taken unique interest in Financial Technologies. I've built high frequency algorithms, securities exchange emulation and capital transaction tools. | ![CCianfloneDev Logo](https://avatars.githubusercontent.com/u/24930067?v=4) <br> Cole Cianflone | Aspiring software developer, pursuing my diploma in Business Information Technology at Red River College Polytechnic. Executive member of the Bits and Bytes association - Project champion of game nights. |
+| ![JZ-FSDev Logo](https://avatars.githubusercontent.com/u/94236556?v=4) <br> Jason Zhu | Avid student programmer, completing my Bachelor’s Degree in the Honours Computer Science Program at the University of Manitoba.  Keen on applying concepts taught in the classroom to practical applications and utilizing software to tackle real-world challenges. | ![dlorenzo2000 Logo](https://avatars.githubusercontent.com/u/62883239?v=4) <br> Dean Lorenzo | A Student of Business Information Technology at Red River College Polytechnic with aspirations of one day holding a portfolio of entrepreneurial endeavours. Seeking professional growth through the experiences of good, bad, and even the ugly IT projects. |
+| ![DevSamLee Logo](https://avatars.githubusercontent.com/u/96956309?v=4) <br> Sam Lee | A student of the Business Information Technology program at Red River College Polytechnic. An explorer with a creative mind. I love to do something nobody asks me to do. | ![DZ-FSDev Logo](https://avatars.githubusercontent.com/u/85122787?v=4) <br> Everett Bazzocchi | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce maximus quam et quam tristique, et accumsan magna venenatis. Nam pellentesque luctus lorem. Curabitur aliquet, purus sed sagittis tincidunt, |
 
